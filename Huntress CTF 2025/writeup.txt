@@ -1,0 +1,32 @@
+I did this CTF with Team Delta
+Some of the challanges done were the following:
+
+1)
+Spam test:
+flag{6a684e1cdca03e6a436d182dd4069183}
+Md5 sum - GTUBE from Wikipedia
+
+Cover all your bases:
+1 - flag{678ac45487c9862a6c2c00a1affed9dc} - Binary (base 2)
+2 -  flag{fe580e05e527f20421290605809caec9} - base 8 (octal)
+3 - flag{7d1eb2e0776cd7c5c78df01010f30e50} - base 10 (decimal)
+4 - flag{d3cb2be3e4e4a8f517d9c5ce4372b0b7} - base 16 (hexadecimal)
+5 - flag{9bb5bb8ea508bcfbc51bd5e11efb29cc} - base 32 (Windows auth)
+6 - flag{b5bef376027104b8c73dafbe95be47f4} - base 45 (QR codes)
+7 - flag{cd0164ff64726f2972b2d8f2ac0119db} - base 64
+8 - flag{a414ae096381d9594c58e785b3c95dfb} - base 85
+9- flag{0c97042d855d7b353dc87c91ea902129} - base 92
+10 - flag{4571745dcd4d16f8d6f0a7fdaf71528c} - base 65536
+
+Just a little bit:
+flag{2c33c169aebdf2ee31e3895d5966d93f}
+Binary Cyberchef -> byte length 7
+
+RFC:
+flag{aec1142c199aa5d8ad0f3ae3fa82e13c}
+Found the flag on the robots.txt file further down on the site.
+
+2)
+OFA:
+flag{013cb9b123afec26b572af5087364081}
+I tried logging in as admin/admin, tried a security code, when I entered the wrong one, the correct stood in the message we got, when entered I found the flag.
