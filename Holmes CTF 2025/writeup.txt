@@ -1,4 +1,5 @@
-Part of solved challanges:
+I was part of TeamDelta during this event and together we solved all the challanges.
+Here you can find parts of solved challanges:
 
 CARD:
 Malware sha-256: 7477c4f5e6d7c8b9a0f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6b7a8f9e0d17477 
