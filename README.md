@@ -7,3 +7,5 @@ I might add more in the future. Some of the events I've taken part in include (b
 - Holmes CTF 2025
 - Hack The Boo CTF 2025
 - Huntress CTF 2025
+- SäkerhetsSM 2026
+  
