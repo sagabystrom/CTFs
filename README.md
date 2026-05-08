@@ -8,4 +8,4 @@ I might add more in the future. Some of the events I've taken part in include (b
 - Hack The Boo CTF 2025
 - Huntress CTF 2025
 - Säkerhets-SM 2026
-  
+- THCON 2026
