@@ -10,3 +10,7 @@ I might add more in the future. Some of the events I've taken part in include (b
 - Säkerhets-SM 2026
 - THCON 2026
 - DEADFACE CTF 2026
+
+I usually compete with **Dunderpatrullen**, among top 50 on CTFtime
+
+https://ctftime.org/team/378451 
