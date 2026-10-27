@@ -9,3 +9,4 @@ I might add more in the future. Some of the events I've taken part in include (b
 - Huntress CTF 2025
 - Säkerhets-SM 2026
 - THCON 2026
+- DEADFACE CTF 2026
